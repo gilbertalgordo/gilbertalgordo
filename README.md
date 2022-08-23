@@ -28,8 +28,4 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 
-# Create a folder
-$ mkdir actions-runner && cd actions-runner# Download the latest runner package
-$ curl -o actions-runner-osx-x64-2.295.0.tar.gz -L https://github.com/actions/runner/releases/download/v2.295.0/actions-runner-osx-x64-2.295.0.tar.gz# Optional: Validate the hash
-$ echo "f419dd19a4a3b5172847a1de861e9a655d1a68632bd4c988cad3e8b621019cab  actions-runner-osx-x64-2.295.0.tar.gz" | shasum -a 256 -c# Extract the installer
-$ tar xzf ./actions-runner-osx-x64-2.295.0.tar.gz
+
