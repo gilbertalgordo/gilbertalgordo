@@ -1,6 +1,9 @@
 
 - 👋 Hi, I’m @gilbertalgordo 
 - 👀 I’m interested in learning X32 X64 Validation...
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gilbert-algordo-b35b95249" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/gilbert-algordo-b35b95249?trk=profile-badge">Gilbert Algordo</a></div>
+              
 - 🌱 wiki https://meta.wikimedia.org/wiki/User:Gilbert_Algordo
 - 💞️ I’m looking to collaborate on dev ...
 - 📫 How to reach me https://twitter.com/gilbert_algordo  ...
