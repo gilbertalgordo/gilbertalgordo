@@ -37,5 +37,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-              <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gilbert-algordo-b35b95249" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/gilbert-algordo-b35b95249?trk=profile-badge">Gilbert Algordo</a></div>
-              
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gilbert-algordo-b35b95249" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/gilbert-algordo-b35b95249?trk=profile-badge">Gilbert Algordo</a></div>
+                  
