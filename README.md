@@ -1,4 +1,4 @@
-We
+
 - 👋 Hi, I’m @gilbertalgordo 
 - 👀 I’m interested in learning X32 X64 Validation...
 - 🖼 Arts & Culture Profile  https://artsandculture.google.com/profile?hl=en&tab=gl            
@@ -41,13 +41,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-  OAuth Client application.
-
-{
-name*: string
-redirect_url*: uri
-client_id: string 🆁
-user: {
-id: integer 🆁
-username: string 🆁
-}}                
+          
