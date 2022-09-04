@@ -43,3 +43,15 @@ By convention, administrators normally take responsibility for judging the outco
 {{documentation}}
 <!-- Categories go on the /doc subpage, and interwikis go on Wikidata. -->
 </noinclude>
+
+
+OAuth Client application.
+
+{
+name*: string
+redirect_url*: uri
+client_id: string 🆁
+user: {
+id: integer 🆁
+username: string 🆁
+}}
