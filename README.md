@@ -16,6 +16,9 @@ https://maps.app.goo.gl/VR34LhVFqZJKHSTa6
 - 🚀 Coders https://github.com/features/codespaces
 - 🔊 Here’s my Spotify profile:
 https://open.spotify.com/user/g32flavor?si=53ug11u5SK-ecAZV8wofjQ&utm_source=native-share-menu
+-  📱 Visit Samsung Members for Customer Service, product information, and benefits.
+
+http://bit.ly/1rjtDOM
 
 <!---
 gilbertalgordo/gilbertalgordo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
