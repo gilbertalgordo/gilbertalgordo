@@ -45,26 +45,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://twitter.com/gilbert_algordo?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @gilbert_algordo</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-          
- //... rest of class
-  .setLinksModuleData((new ArrayList<LinksModuleData>() {
-    {
-      add((new LinksModuleData()).setDescription("Nearby Locations")
-        .setUri("http://maps.google.com/")
-        .setId("mylink"));
-      }))
-      .setClassTemplateInfo((new ClassTemplateInfo())
-        .setDetailsTemplateOverride((new DetailsTemplateOverride())
-          .setDetailsItemInfos(new ArrayList<DetailsItemInfo>(){
-            {
-              add((new DetailsItemInfo())
-                .setItem((new TemplateItem()).setFirstValue((new FieldSelector()).setFields(new ArrayList<FieldReference>(){
-                  {
-                    add((new FieldReference()).setFieldPath("class.linksModuleData.uris['mylink']"));
-                  }
-                }))));
-              }
-            }))
-//... rest of class
+
 
 
