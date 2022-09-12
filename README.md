@@ -45,6 +45,9 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://twitter.com/gilbert_algordo?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @gilbert_algordo</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<a class="twitter-timeline" data-dnt=true href="https://twitter.com/gilbert_algordo" data-widget-id="243446379639341057">Tweets by @gilbert_algordo</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 
 
 
