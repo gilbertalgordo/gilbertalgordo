@@ -105,6 +105,10 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v1
 
+# Create the runner and start the configuration experience
+$ ./config.sh --url https://github.com/gilbertalgordo/dev --token AQROVYAQSNZXMGPRLHTLEODDEAN3C# Last step, run it!
+$ ./run.sh
+
 
 
 https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-31#section-1.3
