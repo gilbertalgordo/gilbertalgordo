@@ -3,9 +3,7 @@
 ## Supported Versions
 
 
-
 <!-- Google tag (gtag.js) -->
-
 
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
@@ -61,6 +59,11 @@ id: integer 🆁
 username: string 🆁
 }}
 
+
+
+https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-31#section-1.3
+
+
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
@@ -105,9 +108,9 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v1
 
-
-
 tar xzf ./actions-runner-osx-x64-2.296.2.tar.gz
 
 
-https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-31#section-1.3
+<!-- Google tag (gtag.js) -->
+
+
