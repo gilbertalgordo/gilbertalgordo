@@ -55,4 +55,5 @@ https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:comp
 
 https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:compose/material3/
 
-https://my.nextdns.io/4e92b3/setup
+
+https://my.nextdns.io/4e92b3/security
