@@ -61,7 +61,6 @@ https://my.nextdns.io/4e92b3/security
 
 <a href="http://www.w3.org/html/logo/">
 
-<img src="https://www.w3.org/html/logo/badge/html5-badge-h-connectivity-css3-device-graphics-multimedia-performance-semantics-storage.png" width="357" height="64" alt="HTML5 Powered with Connectivity / Realtime, CSS3 / Styling, Device Access, Graphics, 3D &amp; Effects, Multimedia, Performance &amp; Integration, Semantics, and Offline &amp; Storage" title="HTML5 Powered with Connectivity / Realtime, CSS3 / Styling, Device Access, Graphics, 3D &amp; Effects, Multimedia, Performance &amp; Integration, Semantics, and Offline &amp; Storage">
 
 </a>
 GET https://gilbertalgordo.jetbrains.space/api/http/applications/me
