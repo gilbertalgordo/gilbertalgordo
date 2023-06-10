@@ -1,6 +1,7 @@
 
 - 👋 Hi, I’m @gilbertalgordo 
 - 👀 I’m interested in learning X32 X64 Validation...
+- https://g.co/finance/.IXIC:INDEXNASDAQ
 - 🖼 Arts & Culture Profile  https://artsandculture.google.com/profile?hl=en&tab=gl            
 - 🌱 wiki https://toolhub.wikimedia.org
 - 💞️ I’m looking to collaborate on dev ...
