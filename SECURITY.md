@@ -102,3 +102,11 @@ tar xzf ./actions-runner-osx-x64-2.296.2.tar.gz
 <!-- Google tag (gtag.js) -->
 
 
+
+</a>
+GET https://gilbertalgordo.jetbrains.space/api/http/applications/me
+
+Authorization: Bearer $PERMANENT_TOKEN$
+
+Accept: application/json
+
