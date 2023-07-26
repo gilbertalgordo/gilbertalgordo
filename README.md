@@ -70,3 +70,12 @@ Authorization: Bearer $PERMANENT_TOKEN$
 
 Accept: application/json
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y7G8R5Y2ME"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y7G8R5Y2ME');
+</script>
